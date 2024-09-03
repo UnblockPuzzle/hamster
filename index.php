@@ -582,7 +582,7 @@
 	
 	<script>
 		function start(){
-		postMessage(JSON.stringify({method: "StartGame",level: "- b - c d d.a b - c e -.a b 0 0 e -.g g f - e -.h - f z z v.h x x - - v",number: new Date("2024-07-19T20:00:00.000Z").getTime()/1e3}))
+		postMessage(JSON.stringify({method: "StartGame",level: "a - - c - -.a b b c - d.- - 0 0 - d.h h g - - d.- - g e e e.- - g - - -",number: new Date("2024-07-19T20:00:00.000Z").getTime()/1e3}))
 		}
 	</script>
 </body>
